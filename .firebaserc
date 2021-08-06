@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-facebook-clone": {
+      "hosting": {
+        "facebook-clone-firebase": [
+          "angular-facebook-clone"
+        ]
+      }
+    }
+  }
+}
